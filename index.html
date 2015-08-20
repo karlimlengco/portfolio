@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>REVLV</title>
+        <meta name="description" content="Thumbnail Grid with Expanding Preview" />
+        <meta name="keywords" content="thumbnails, grid, preview, google image search, jquery, image grid, expanding, preview, portfolio" />
+        <meta name="author" content="Codrops" />
+        <link rel="shortcut icon" href="../favicon.ico">
+        <link rel="stylesheet" type="text/css" href="css/main.css" />
+        <script src="js/modernizr.custom.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <header class="clearfix">
+                <img src="img/revlv-logo.png" alt="" width="300">
+            </header>
+            <div class="main">
+                <ul id="og-grid" class="og-grid"></ul>
+            </div>
+        </div><!-- /container -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="js/grid.js"></script>
+        <script>
+            $(function() {
+                Grid.init();
+
+                var $grid = $("#og-grid");
+                var xhr = $.getJSON("projects.json", function(data) {
+
+                    var projects = [];
+
+                    $.each(data.projects, function(key, val) {
+                        string = "<li>";
+                        string += "<a href='" + val.url + "' data-largesrc='"+ val.image+"' data-title='"+val.title+"' data-description='"+val.description+ "'>";
+                        string += "<img src='" + val.thumb + "' alt='img'/>";
+                        string += "</a>";
+                        string += "</li>";
+
+                        projects.push(string);
+                    });
+                    $items = $(projects.join("")).appendTo($grid);
+                    Grid.addItems($items);
+                });
+            });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name": "revlv-teaser",
+  "version": "0.1.0",
+  "author": "Ricardo Pascua jr",
+  "devDependencies": {
+    "gulp": "~3.8.0",
+    "gulp-less": "~1.3.3",
+    "gulp-watch": "^0.6.9"
+  }
+}
