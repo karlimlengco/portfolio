@@ -1,0 +1,154 @@
+{
+    "projects" : [{
+        "url": "http://www.greeninitiative.com.ph/",
+        "image": "img/1.jpg",
+        "thumb": "img/thumbs/1.jpg",
+        "title": "ABS-CBN Foundation",
+        "description": "Green initiative is an organization of nature loving personalities under the most prominent Television station in the Philippines, ABS-CBN Foundation. They ought protect the Philippine environment especially the most visited site-viewing places on Philippines to preserve its beauty for future tourist attractions.  We designed and developed the Green Initiative website to help them spread and continue their noble advocacy for the environment. <br /><br /> <p> WEBSITE DEVELOPMENT </p> <p>WEBSITE HOSTING</p>"
+    }, {
+        "url": "http://revlv.net",
+        "image": "img/2.jpg",
+        "thumb": "img/thumbs/2.jpg",
+        "title": "Converged Storage",
+        "description": "SYSTEMS DEVELOPMENT <p> WEBSITE DEVELOPMENT</p> <p>TECHNICAL SUPPORT</p>"
+    }, {
+        "url": "http://www.slb.ph",
+        "image": "img/3.jpg",
+        "thumb": "img/thumbs/3.jpg",
+        "title": "Simbahang Lingkod ng Bayan",
+        "description": "<p>WEBSITE HOSTING</p> <p>EMAIL HOSTING</p>"
+    }, {
+        "url": "http://revlv.net",
+        "image": "img/4.jpg",
+        "thumb": "img/thumbs/4.jpg",
+        "title": "NESP",
+        "description": "<p>TECHNICAL SUPPORT</p>"
+    }, {
+        "url": "http://www.ess.edu.ph",
+        "image": "img/5.jpg",
+        "thumb": "img/thumbs/5.jpg",
+        "title": "Elizabeth Seton",
+        "description": "SYSTEMS DEVELOPMENT <p>WIRELESS BACKHAUL</p> <p>NETWORK REHABILITATION</p> <p>WI-FI HOT-ZONE</p>"
+    }, {
+        "url": "http://dotcmrt3.gov.ph/",
+        "image": "img/6.jpg",
+        "thumb": "img/thumbs/6.jpg",
+        "title": "DOTC-MRT3",
+        "description": "The Metro Rail Transit 3 (MRT-3) is the cornerstone of the Department of Transportation & Communications integrated strategy to alleviate the chronic traffic congestion experience along the EDSA corridor. <br> <p>SYSTEMS DEVELOPMENT</p>  <p>WEB DEVELOPMENT</p> <p>IP CAMERA PROGRAMMING</p> <p>Wireless Network Installation</p>"
+    }, {
+        "url": "http://revlv.net",
+        "image": "img/7.jpg",
+        "thumb": "img/thumbs/7.jpg",
+        "title": "Civil EMRS",
+        "description": "<p>SYSTEMS DEVELOPMENT</p>"
+    }, {
+        "url": "http://revlv.net",
+        "image": "img/8.jpg",
+        "thumb": "img/thumbs/8.jpg",
+        "title": "PNC",
+        "description": "<p>SYSTEMS DEVELOPMENT</p> <p>WEBSITE DEVELOPMENT</p> <p>WEBSITE HOSTING</p> <p>EMAIL HOSTING</p>"
+    }, {
+        "url": "http://revlv.net",
+        "image": "img/9.jpg",
+        "thumb": "img/thumbs/9.jpg",
+        "title": "DOST-PAGASA",
+        "description": "SYSTEM DEVELOPMENT"
+    }, {
+        "url": "http://revlv.net",
+        "image": "img/10.jpg",
+        "thumb": "img/thumbs/10.jpg",
+        "title": "Merriam-Webster",
+        "description": "SYSTEM DEVELOPMENT"
+    }, {
+        "url": "http://www.coastguard.gov.ph",
+        "image": "img/11.jpg",
+        "thumb": "img/thumbs/11.jpg",
+        "title": "Philippine Coastguard",
+        "description": "Philippine Coast Guard is the oldest and only humanitarian armed service of the Philippines. Presently, PCG is now recognized as the third uniformed armed service of the country, following the the Armed Forces of the Philippines and Phillippine National Police. <br /><br /> <p>SYSTEM DEVELOPMENT</p> <p>DATA CENTER DESIGN</p> <p>DATA CENTER INSTALLATION</p>"
+    }, {
+        "url": "http://www.optimadigital.com",
+        "image": "img/12.jpg",
+        "thumb": "img/thumbs/12.jpg",
+        "title": "Optima Digital",
+        "description": "Optima Digital is an Integrated Digital Services provider that specializes in TVCs, feature films, content development, and interactive solutions for web, mobile, and social media. The company continues to pave the way for service excellence through constant Innovation and unparalleled Creativity, emphasizing on Quality, Speed and Experience as its core service values. <br /> <br /> <p>FIBER OPTIC NETWORK</p> <p>STRUCTURED CABLING</p>"
+    }, {
+        "url": "http://chicfrancisco.com",
+        "image": "img/13.jpg",
+        "thumb": "img/thumbs/13.jpg",
+        "title": "Chic Francisco",
+        "description": "When Chic turned 60 in April 2009, she decided to close her school. But being a workaholic, she soon embarked on a new project. Believing that her easy-to-understand and easy-to-follow pattern-making method would significantly enable and empower a multitude of people world-wide, she started her e-learning project."
+    }, {
+        "url": "http://coasthotels.com",
+        "image": "img/14.jpg",
+        "thumb": "img/thumbs/14.jpg",
+        "title": "Coast Hotels",
+        "description": "<p>SYSTEMS DEVELOPMENT</p> <p>MOBILE APP DEVELOPMENT</p>"
+    }, {
+        "url": "http://arsenal.revlv.net",
+        "image": "img/15.jpg",
+        "thumb": "img/thumbs/15.jpg",
+        "title": "Arsenal",
+        "description": "Asset Management System is a powerful web and mobile-ready application for tracking all kinds of assets from single (to multiple) locations. This gives you a single point of control over all types of assets and provides you full control on your production, infrastructure, facilities, logistics and communications assets. It manages your assets on a common platform that allows sharing and enforcement of best practices for your inventory and company resources."
+    }, {
+        "url": "http://edge.revlv.net",
+        "image": "img/16.jpg",
+        "thumb": "img/thumbs/16.jpg",
+        "title": "EDGE",
+        "description": " DIGITAL ADVERTISING System is a state-of-the-art and industry standards compliant system for a centralized content-driven digital advertising. It is the first in the country and is far more efficient, easy to install and easy to manage digital advertising media for big department stores, government offices, buildings, mass transportation systems and other locations which pose a great challenge to traditional player-based systems."
+    }, {
+        "url": "http://www.dispatcher.revlv.net",
+        "image": "img/17.jpg",
+        "thumb": "img/thumbs/17.jpg",
+        "title": "Dispatcher",
+        "description": "Systems Development <br /><br /> <p>Systems Development for PPA</p>"
+    }, {
+        "url": "http://www.sentry.revlv.net",
+        "image": "img/18.jpg",
+        "thumb": "img/thumbs/18.jpg",
+        "title": "Sentry",
+        "description": " Human Resource Information System is a web-based solution for Human Resource Management with payroll and accounting functions for your business. This powerful, multi-module product offers ease and comprehensive control for your HR needs."
+    }, {
+        "url": "http://www.sagotkitabayan.org",
+        "image": "img/19.jpg",
+        "thumb": "img/thumbs/19.jpg",
+        "title": "Sagot Kita Bayan",
+        "description": "Systems Development <br /><br /> <p>Systems Development</p>"
+    }, {
+        "url": "http://www.toyexchange.ph",
+        "image": "img/20.jpg",
+        "thumb": "img/thumbs/20.jpg",
+        "title": "Toy Exchange",
+        "description": "<p>WEBSITE HOSTING </p> <p>DOMAIN HOSTING </p> <p>GRAPHICS DESIGN </p> <p>WEBSITE DEVELOPMENT </p>"
+    }, {
+        "url": "http://www.revlv.net",
+        "image": "img/bucor.png",
+        "thumb": "img/thumbs/bucor.png",
+        "title": "Bureau of Corrections",
+        "description": "<p>Bureau of Corrections is an agency of the Department of Justice. BuCor is charged with the custody and rehabilitation of national offenders(who have been sentenced to three years of imprisonment and more). </p> <br /> <p>Systems development</p> <p>DATA CENTER DESIGN</p> <p>DATA CENTER INSTALLATION</p> <p>Wireless Network Installation</p>"
+    }, {
+        "url": "http://www.revlv.net",
+        "image": "img/coa.png",
+        "thumb": "img/thumbs/coa.png",
+        "title": "Commission on Audit",
+        "description": "<p>Commission on Audit is an independent  constitutional commission established by the Constitution of the Philippines. CoA has the power, authority and duty to examine, audit and settle all accounts and expenditures of the funds and properties of the Philippine Government.</p> <br /> <p> Structured Cabling</p>"
+    }, {
+        "url": "http://www.revlv.net",
+        "image": "img/20.jpg",
+        "thumb": "img/thumbs/20.jpg",
+        "title": "BANBROS",
+        "description": "<p>Banbros Commercial Inc. was established and partnered with several companies and provide continued growth and expansion in the distribution business. Banbros has been able to provide a wide range of products to its vast network of dealers and customers.</p> <br /> <p> WEB DEVELOPMENT</p>"
+    }, {
+        "url": "http://www.revlv.net",
+        "image": "img/20.jpg",
+        "thumb": "img/thumbs/20.jpg",
+        "title": "Timelines",
+        "description": " <p>TIMELINES is a project management and performance metrics in one system. Monitor your teams performance through Key Performance Indicators(KPIs), check project progress, task accomplishments and team outcome plus more</p> <p>Project Management System</p> "
+    }, {
+        "url": "http://www.revlv.net",
+        "image": "img/20.jpg",
+        "thumb": "img/thumbs/20.jpg",
+        "title": "Mainframe",
+        "description": "<p>Billing System</p> "
+    }
+    ]
+}
